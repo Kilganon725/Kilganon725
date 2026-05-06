@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">Hey! This is Kilganon's Github 👋</h1>
+<h2 align="center">Hey! This is Kilganon's Github 👋</h2>
 
 ###
 
@@ -66,6 +66,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats : Coffee Coding</h3>
 
 ###
